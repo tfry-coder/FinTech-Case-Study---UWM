@@ -1,0 +1,93 @@
+# FinTech-Case-Study UWM
+![UWM](https://www.housingwire.com/wp-content/uploads/2020/09/UWM-1.jpg)
+
+## Overview and Origin
+
+Name of company   UWM
+
+* When was the company incorporated?  1986
+
+* Who are the founders of the company?  Jeff Ishbia
+
+* How did the idea for the company (or project) come about?  Started out with three divisions.  United Wholesale Mortgage (wholesale), Shore Mortgage (direct to consumer lending), and Capital Mortgage Funding (mortgage lender.)
+
+* How is the company funded? How much funding have they received? Self-funded by father Jeff Ishbia. Most recently UMM agreed to be taken public via SPAC (special purpose acquisition company Gores Holdings IV) in September 2020, valuing UWM at 16.1 billion.  Matt, Jeff, and his brother will own 94% of UWM post IPO with Matt owning 75%.  Matt will be worth 11.4 billion from the IPO becoming an instant billionaire.  It will be listed on the NASDAQ as UWMC.  
+
+
+## Business Activities
+
+* What specific financial problem is the company or project trying to solve?  UWM is 100% a wholesale lender with zero direct to consumer origination of mortgages.  This solves the conflict of interest of nearly all wholesalers who have both a wholesale branch as a well as a retail branch.  Often these wholesalers with retail branches will feed off of the broker’s business with direct marketing to their clients post close to capture market share.
+
+In addition, most wholesalers have poor websites, processes, turn times, and un-user-friendly interfaces to originate and close mortgages.  Nearly all of UWM’s sites and interfaces are proprietary.   
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+UWM’s differentiated business model focuses exclusively on providing wholesale mortgage clients superior service through proprietary technology that enables them to process mortgage applications at faster speeds and provide lower rates than competitors.
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Application and Datea:  JQuery/JQuery UI, Bootstrap, and Moment.js
+
+Business Tools:  Font Awesome and Sitefinity
+
+Utilities:  Google Analytics and Google Tag Manager
+
+## Landscape
+
+* What domain of the financial industry is the company in?   Wholesale mortgages
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?  Technology innovations however lagging other sectors within the Fintech arena.  Mortgages have many more layers of complex requirements such as local, state, federal regulatory requirements, compliance audits, aggregator, investor, and government sponsored enterprises buyer/seller agreements that have additional protection requirements.   Thus building a technology platform for this industry is difficult and will take more time. 
+
+* What are the other major companies in this domain?
+
+Caliber Home Loans
+Home Point Mortgage Corporation
+LoanDepot, LLC
+Homebridge Financial Services
+Stearns Lending
+NewRez LLC
+Better.com
+Flagstar Bank
+Royal Pacific Funding dba Bluepoint Mortgage
+
+
+## Results
+
+* What has been the business impact of this company so far?  UWM has rapidly gained market share over the past 5 years to become the number one wholesale lender in the nation.  They have provided far better turn time speed (avg. closing in 14 days compared to 40 days) and superior technology for their broker partners to compete and provide better service than big banks and retail mortgage bankers.  Most recently they have provided more competitive pricing and are going public to capture additional market share by keeping clients at UWM and referring them back to their broker partners.  
+
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  
+
+ In 2015, UWM became the number one wholesale lender in the country and has increased its lead as the number one wholesaler since then.  Market share of the total mortgage market is expected to rise to 6.7% in 2020 and to 9.2% by 2022.  Its share of the wholesale mortgage market is to rise from 35% this year to 40% in 2022.  
+
+
+* How is your company performing relative to competitors in the same domain?   
+
+In 2015, UWM became the number one wholesale lender in the country and has increased its lead as the number one wholesaler since then.  
+
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)   There will be significant disruption in this sector in the near future similar to that of the financial planning field where mortgage brokers and loan officers will be losing market share.  It’s estimated that 50 percent of brokers will not be needed in 10 years.  I suggest bypassing the brokers entirely. UWM focuses only on higher credit score profiles which Fannie Mae/Freddie Mac, FHA, and VA all use automated underwriting engines to perform the upfront pre-qualification process.  UWM is also now implementing new technology which reviews income and asset information in a doc-less manor.  Why is a broker needed when 95% of the process is automated.  There’s a very large margin being paid to brokers for a minimum amount of actual work.  This service that UWM would provide is an A.I. bot (similar to Robo-Advisors) in pre-qualifying and identifying the type of mortgage a borrower would qualify for and would be the best fit.   
+
+* Why do you think that offering this product or service would benefit the company?  This would greatly improve margins by not paying a range of 1 to 2.5 percent of the loan amount to pay out a commission to a broker.  This would greatly boost profits by providing even lower rates to consumers compared to the competition and disrupt this lagging FinTech sector.  
+
+* What technologies would this additional product or service utilize?  A.I. chat bot to lead borrowers through a series of pre-qualification questions to both pre-qual and identify the best loan product type for the borrowers. 			  
+
+* Why are these technologies appropriate for your solution?  This technology is already being used by financial planning companies via the robo-advisor.  Identifying the main three loan programs that UWM concentrates on (Conforming, FHA, and VA) involves less quantifying than a robo-advisor advising on portfolio scenarios/recommendations.
+
+
+Resources:
+
+https://www.mortgagefinancegazette.com/lending-news/broker-mortgage-market-share-drop-50-next-decade-12-02-2020/
+https://www.crainsdetroit.com/article/20180304/news/654431/building-a-behemoth-detroits-other-mortgage-mogul
+https://www.bloomberg.com/billionaires/profiles/mat-ishbia/#:~:text=Net%20Worth%20Summary,-Cash&text=He's%20the%20president%20and%20chief,valuing%20UWM%20at%20%2416.1%20billion.
+https://wikitia.com/wiki/Mat_Ishbia
+https://stackshare.io/united-wholesale-mortgage/uwm-com
+
+https://nationalmortgageprofessional.com/news/75909/survival-wholesale-correspondent-lending
+https://www.uwm.com/broker-advocacy
+https://www.scotsmanguide.com/rankings/top-mortgage-lenders/2019/top-wholesale-volume
+
+
