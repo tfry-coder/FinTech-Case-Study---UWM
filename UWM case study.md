@@ -25,6 +25,7 @@
     > Business Tools:  Font Awesome and Sitefinity
 
     > Utilities:  Google Analytics and Google Tag Manager
+    
 
 ## Landscape
 
@@ -67,7 +68,7 @@ Royal Pacific Funding dba Bluepoint Mortgage
 * This technology is already being used by financial planning companies via the robo-advisor.  Identifying the main three loan programs that UWM concentrates on (Conforming, FHA, and VA) involves less quantifying than a robo-advisor advising on portfolio scenarios/recommendations.
 
 
-Resources:
+## Resources
 
 [Mortgage Finance Gazette](https://www.mortgagefinancegazette.com/lending-news/broker-mortgage-market-share-drop-50-next-decade-12-02-2020/)
 
