@@ -25,7 +25,7 @@
     > Business Tools:  Font Awesome and Sitefinity
 
     > Utilities:  Google Analytics and Google Tag Manager
-    
+
 
 ## Landscape
 
@@ -35,24 +35,22 @@
 
 * The list of competitors ranked in volume production below UWM are:  
 
-Caliber Home Loans
-Home Point Mortgage Corporation
-LoanDepot, LLC
-Homebridge Financial Services
-Stearns Lending
-NewRez LLC
-Better.com
-Flagstar Bank
-Royal Pacific Funding dba Bluepoint Mortgage
+    >Caliber Home Loans
+    >Home Point Mortgage Corporation
+    >LoanDepot, LLC
+    >Homebridge Financial Services
+    >Stearns Lending
+    >NewRez LLC
+    >Better.com
+    >Flagstar Bank
+    >Royal Pacific Funding dba Bluepoint Mortgage
 
 
 ## Results
 
 * UWM has rapidly gained market share over the past 5 years to become the number one wholesale lender in the nation.  They have provided far better turn time speed (avg. closing in 14 days compared to 40 days) and superior technology for their broker partners to compete and provide better service than big banks and retail mortgage bankers.  Most recently they have provided more competitive pricing and are going public to capture additional market share by keeping clients at UWM and referring them back to their broker partners.  
 
-
 * In 2015, UWM became the number one wholesale lender in the country and has increased its lead as the number one wholesaler since then.  Market share of the total mortgage market is expected to rise to 6.7% in 2020 and to 9.2% by 2022.  Its share of the wholesale mortgage market is to rise from 35% this year to 40% in 2022.  
-
 
 * In 2015, UWM became the number one wholesale lender in the country and has increased its lead as the number one wholesaler since then.  
 
