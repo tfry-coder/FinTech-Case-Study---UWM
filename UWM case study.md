@@ -3,8 +3,6 @@
 
 ## Overview and Origin
 
-United Wholesale Mortgage
-
 * UWM was incorporated in 1986
 
 * Jeff Ishbia is the founder of UWM and his son Matt is the CEO
@@ -22,11 +20,11 @@ United Wholesale Mortgage
 
 * Most of the technologies UWM uses is proprietary.  Their campus looks like a silicon valley company with a huge IT workforce.  Their proprietary software includes e-signing, docless income and asset verification, appraisal waiver enhancements, virtual e-sign closings, custom rate and lock pricing, loan application links for brokers to use, and social media marketing/flyers/links to use which is all free for their broker partners.  
 
-> Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
+    > Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
 
-> Business Tools:  Font Awesome and Sitefinity
+    > Business Tools:  Font Awesome and Sitefinity
 
-> Utilities:  Google Analytics and Google Tag Manager
+    > Utilities:  Google Analytics and Google Tag Manager
 
 ## Landscape
 
