@@ -16,19 +16,17 @@ United Wholesale Mortgage
 
 ## Business Activities
 
-* UWM is 100% a wholesale lender with zero direct to consumer origination of mortgages.  This solves the conflict of interest of nearly all wholesalers who have both a wholesale branch as a well as a retail branch.  Often these wholesalers with retail branches will feed off of the broker’s business with direct marketing to their clients post close to capture market share.
-
-In addition, most wholesalers have poor websites, processes, turn times, and un-user-friendly interfaces to originate and close mortgages.  Nearly all of UWM’s sites and interfaces are proprietary.   
+* UWM is 100% a wholesale lender with zero direct to consumer origination of mortgages.  This solves the conflict of interest of nearly all wholesalers who have both a wholesale branch as a well as a retail branch.  Often these wholesalers with retail branches will feed off of the broker’s business with direct marketing to their clients post close to capture market share.  In addition, most wholesalers have poor websites, processes, turn times, and un-user-friendly interfaces to originate and close mortgages.  Nearly all of UWM’s sites and interfaces are proprietary.   
 
 * UWM’s differentiated business model focuses exclusively on providing wholesale mortgage clients superior service through proprietary technology that enables them to process mortgage applications at faster speeds and provide lower rates than competitors.
 
 * Most of the technologies UWM uses is proprietary.  Their campus looks like a silicon valley company with a huge IT workforce.  Their proprietary software includes e-signing, docless income and asset verification, appraisal waiver enhancements, virtual e-sign closings, custom rate and lock pricing, loan application links for brokers to use, and social media marketing/flyers/links to use which is all free for their broker partners.  
 
-Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
+> "Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js"
 
-Business Tools:  Font Awesome and Sitefinity
+> "Business Tools:  Font Awesome and Sitefinity"
 
-Utilities:  Google Analytics and Google Tag Manager
+> "Utilities:  Google Analytics and Google Tag Manager"
 
 ## Landscape
 
