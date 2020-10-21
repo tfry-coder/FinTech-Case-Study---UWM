@@ -9,7 +9,7 @@
 
 * UWM started out with three divisions.  United Wholesale Mortgage (wholesale), Shore Mortgage (direct to consumer lending), and Capital Mortgage Funding (mortgage lender.)
 
-* UWM is self-funded by father Jeff Ishbia. Most recently UMM agreed to be taken public via SPAC (special purpose acquisition company Gores Holdings IV) in September 2020, valuing UWM at 16.1 billion.  Matt, Jeff, and his brother will own 94% of UWM post IPO with Matt owning 75%.  Matt will be worth 11.4 billion from the IPO becoming an instant billionaire.  It will be listed on the NASDAQ as UWMC.  
+* UWM is self-funded by Matt Ishbia's father Jeff Ishbia. Most recently UMM agreed to be taken public via SPAC (special purpose acquisition company Gores Holdings IV) in September 2020, valuing UWM at 16.1 billion.  Matt, Jeff, and his brother will own 94% of UWM post IPO with Matt owning 75%.  Matt will be worth 11.4 billion from the IPO becoming an instant billionaire.  It will be listed on the NASDAQ as UWMC.  
 
 
 ## Business Activities
@@ -18,15 +18,13 @@
 
 * UWM’s differentiated business model focuses exclusively on providing wholesale mortgage clients superior service through proprietary technology that enables them to process mortgage applications at faster speeds and provide lower rates than competitors.
 
-* Most of the technologies UWM uses is proprietary.  Their campus looks like a silicon valley company with a huge IT workforce.  Their proprietary software includes e-signing, docless income and asset verification, appraisal waiver enhancements, virtual e-sign closings, custom rate and lock pricing, loan application links for brokers to use, and social media marketing/flyers/links to use which is all free for their broker partners.  Recently UWM launched Blink+, which is an all-in-one online borrower-facing application portal and point of sale, loan origination system, and CRM for loan officers.  In addition to this, UWM introduced InTouch which is a mobile app that provides brokers access to the full origination process, from underwriting through to closing, all within the app.   
+* Most of the technologies UWM uses is proprietary.  Their campus looks like a silicon valley company with a huge IT workforce.  Their proprietary software includes e-signing, docless income and asset verification, appraisal waiver enhancements, virtual e-sign closings, custom rate and lock pricing, loan application links for brokers to use, and social media marketing/flyers/links to use which is all free for their broker partners.  Recently UWM launched Blink+, which is an all-in-one online borrower-facing application portal and point of sale, loan origination system, and CRM for loan officers.  In addition to this, UWM introduced InTouch which is a mobile app that provides brokers access to the full origination process, from underwriting through to closing, all within the app.  The application, data, business tools, and utilities they use are listed below.  
 
-The application, data, business tools, and utilities they use are listed below.  
+    >Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
 
-    > Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
+    >Business Tools:  Font Awesome and Sitefinity
 
-    > Business Tools:  Font Awesome and Sitefinity
-
-    > Utilities:  Google Analytics and Google Tag Manager
+    >Utilities:  Google Analytics and Google Tag Manager
 
 
 ## Landscape
