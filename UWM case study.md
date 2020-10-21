@@ -73,17 +73,23 @@ Royal Pacific Funding dba Bluepoint Mortgage
 
 Resources:
 
-https://www.mortgagefinancegazette.com/lending-news/broker-mortgage-market-share-drop-50-next-decade-12-02-2020/
-https://www.crainsdetroit.com/article/20180304/news/654431/building-a-behemoth-detroits-other-mortgage-mogul
-https://www.bloomberg.com/billionaires/profiles/mat-ishbia/#:~:text=Net%20Worth%20Summary,-Cash&text=He's%20the%20president%20and%20chief,valuing%20UWM%20at%20%2416.1%20billion.
-https://wikitia.com/wiki/Mat_Ishbia
-https://stackshare.io/united-wholesale-mortgage/uwm-com
+[Mortgage Finance Gazette](https://www.mortgagefinancegazette.com/lending-news/broker-mortgage-market-share-drop-50-next-decade-12-02-2020/)
 
-https://nationalmortgageprofessional.com/news/75909/survival-wholesale-correspondent-lending
-https://www.uwm.com/broker-advocacy
-https://www.scotsmanguide.com/rankings/top-mortgage-lenders/2019/top-wholesale-volume
+[Crains Detroit - Mortgage Mogul](https://www.crainsdetroit.com/article/20180304/news/654431/building-a-behemoth-detroits-other-mortgage-mogul)
 
-[Game changing technology](https://www.prnewswire.com/news-releases/game-changing-technology-earns-united-wholesale-mortgage-a-spot-on-the-housingwire-2016-hw-tech100-list-300231294.html)
+[Bloomberg - Billionaires](https://www.bloomberg.com/billionaires/profiles/mat-ishbia/#:~:text=Net%20Worth%20Summary,-Cash&text=He's%20the%20president%20and%20chief,valuing%20UWM%20at%20%2416.1%20billion.)
+
+[Wiki - Matt Ishbia](https://wikitia.com/wiki/Mat_Ishbia)
+
+[Stackshare](https://stackshare.io/united-wholesale-mortgage/uwm-com)
+
+[National Mortgage Professional](https://nationalmortgageprofessional.com/news/75909/survival-wholesale-correspondent-lending)
+
+[UWM - Broker Advocacy](https://www.uwm.com/broker-advocacy)
+
+[Rankings - Wholesale Volume](https://www.scotsmanguide.com/rankings/top-mortgage-lenders/2019/top-wholesale-volume)
+
+[Game changing technology - prnewswire](https://www.prnewswire.com/news-releases/game-changing-technology-earns-united-wholesale-mortgage-a-spot-on-the-housingwire-2016-hw-tech100-list-300231294.html)
 
 
 
