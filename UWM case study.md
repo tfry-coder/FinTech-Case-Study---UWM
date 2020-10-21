@@ -7,7 +7,7 @@
 
 * Jeff Ishbia is the founder of UWM and his son Matt is the CEO
 
-* UWM started out with three divisions.  United Wholesale Mortgage (wholesale), Shore Mortgage (direct to consumer lending), and Capital Mortgage Funding (mortgage lender.)
+* UWM started out with three divisions.   United Wholesale Mortgage (wholesale), Shore Mortgage (direct to consumer lending), and Capital Mortgage Funding (mortgage lender.)
 
 * UWM is self-funded by father Jeff Ishbia. Most recently UMM agreed to be taken public via SPAC (special purpose acquisition company Gores Holdings IV) in September 2020, valuing UWM at 16.1 billion.  Matt, Jeff, and his brother will own 94% of UWM post IPO with Matt owning 75%.  Matt will be worth 11.4 billion from the IPO becoming an instant billionaire.  It will be listed on the NASDAQ as UWMC.  
 
@@ -50,7 +50,7 @@
     >Better.com
 
     >Flagstar Bank
-    
+
     >Royal Pacific Funding dba Bluepoint Mortgage
 
 
