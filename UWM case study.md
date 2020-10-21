@@ -7,7 +7,7 @@
 
 * Jeff Ishbia is the founder of UWM and his son Matt is the CEO
 
-* UWM started out with three divisions.   United Wholesale Mortgage (wholesale), Shore Mortgage (direct to consumer lending), and Capital Mortgage Funding (mortgage lender.)
+* UWM started out with three divisions.  United Wholesale Mortgage (wholesale), Shore Mortgage (direct to consumer lending), and Capital Mortgage Funding (mortgage lender.)
 
 * UWM is self-funded by father Jeff Ishbia. Most recently UMM agreed to be taken public via SPAC (special purpose acquisition company Gores Holdings IV) in September 2020, valuing UWM at 16.1 billion.  Matt, Jeff, and his brother will own 94% of UWM post IPO with Matt owning 75%.  Matt will be worth 11.4 billion from the IPO becoming an instant billionaire.  It will be listed on the NASDAQ as UWMC.  
 
@@ -18,7 +18,9 @@
 
 * UWM’s differentiated business model focuses exclusively on providing wholesale mortgage clients superior service through proprietary technology that enables them to process mortgage applications at faster speeds and provide lower rates than competitors.
 
-* Most of the technologies UWM uses is proprietary.  Their campus looks like a silicon valley company with a huge IT workforce.  Their proprietary software includes e-signing, docless income and asset verification, appraisal waiver enhancements, virtual e-sign closings, custom rate and lock pricing, loan application links for brokers to use, and social media marketing/flyers/links to use which is all free for their broker partners.  
+* Most of the technologies UWM uses is proprietary.  Their campus looks like a silicon valley company with a huge IT workforce.  Their proprietary software includes e-signing, docless income and asset verification, appraisal waiver enhancements, virtual e-sign closings, custom rate and lock pricing, loan application links for brokers to use, and social media marketing/flyers/links to use which is all free for their broker partners.  Recently UWM launched Blink+, which is an all-in-one online borrower-facing application portal and point of sale, loan origination system, and CRM for loan officers.  In addition to this, UWM introduced InTouch which is a mobile app that provides brokers access to the full origination process, from underwriting through to closing, all within the app.   
+
+The application, data, business tools, and utilities they use are listed below.  
 
     > Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
 
@@ -62,6 +64,8 @@
 
 * In 2015, UWM became the number one wholesale lender in the country and has increased its lead as the number one wholesaler since then.  
 
+* Most recently, third quarter ending September 30, 2020, UWM reported closed loan volume exceeding $54.2 billion, an 81% increase from the $29 billion loan volume closed in third quarter of 2019.  Through the third quarter, UWM closed YTD total of $127.8 billion which exceeds its 2019 production record of $107 billion by 20%.  
+
 
 ## Recommendations
 
@@ -93,6 +97,8 @@
 [Rankings - Wholesale Volume](https://www.scotsmanguide.com/rankings/top-mortgage-lenders/2019/top-wholesale-volume)
 
 [Game changing technology - prnewswire](https://www.prnewswire.com/news-releases/game-changing-technology-earns-united-wholesale-mortgage-a-spot-on-the-housingwire-2016-hw-tech100-list-300231294.html)
+
+[Marketwatch - Record 3rd quarter 2020](https://www.marketwatch.com/press-release/united-wholesale-mortgage-announces-record-third-quarter-2020-results-145-billion-net-income-2020-10-13)
 
 
 
