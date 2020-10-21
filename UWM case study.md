@@ -36,13 +36,21 @@
 * The list of competitors ranked in volume production below UWM are:  
 
     >Caliber Home Loans
+
     >Home Point Mortgage Corporation
+
     >LoanDepot, LLC
+
     >Homebridge Financial Services
+
     >Stearns Lending
+
     >NewRez LLC
+
     >Better.com
+
     >Flagstar Bank
+    
     >Royal Pacific Funding dba Bluepoint Mortgage
 
 
