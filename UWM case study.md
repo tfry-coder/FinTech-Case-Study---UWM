@@ -33,27 +33,17 @@
 
 * Technology innovations are changing both the retail and broker mortgage environment however lagging compared to other sectors within the Fintech arena.  Mortgages have many more layers of complex requirements such as local, state, federal regulatory requirements, compliance audits, aggregator, investor, and government sponsored enterprises buyer/seller agreements that have additional protection requirements.   Thus building a technology platform for this industry is difficult and will take more time. 
 
-* The list of competitors ranked in volume production below UWM are:  
+* The top five list of competitors ranked in total volume production below ending 2019 are:  
 
-    1.  UWM 
+    * UWM: $107,767,172,048
 
-    2.  Caliber Home Loans
+    * Caliber Home Loans:  $61,339,450,212
 
-    3.  Home Point Mortgage Corporation
+    *  Home Point Mortgage Corporation:  $22,271,895,036
 
-    4.  LoanDepot, LLC
+    *  LoanDepot, LLC:  $46,054,555,674
 
-    5.  Homebridge Financial Services
-
-    6.  Stearns Lending
-
-    7.  ewRez LLC
-
-    8.  Better.com
-
-    9.  Flagstar Bank
-
-    10.  Royal Pacific Funding dba Bluepoint Mortgage
+    * Homebridge Financial Services:  $17,347,656,828
 
 
 ## Results
