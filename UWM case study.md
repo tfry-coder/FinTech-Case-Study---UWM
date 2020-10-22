@@ -26,10 +26,6 @@
 
     * Utilities:  Google Analytics and Google Tag Manager
 
-Mat Ishbia on never relaxing:
-
-> As we grow from being the No. 1 wholesale lender, we're never relaxing.  I'm not happy where we're at.  We're bigger than we've ever been.  We're stronger than we've ever been, but we're never relaxing.  We have to take it to the next level.  
-
 
 ## Landscape
 
@@ -39,7 +35,7 @@ Mat Ishbia on never relaxing:
 
 * The list of competitors ranked in volume production below UWM are:  
 
-    1 UWM 
+    1.  UWM 
 
     2.  Caliber Home Loans
 
@@ -69,6 +65,10 @@ Mat Ishbia on never relaxing:
 * In 2015, UWM became the number one wholesale lender in the country and has increased its lead as the number one wholesaler since then.  
 
 * Most recently, third quarter ending September 30, 2020, UWM reported closed loan volume exceeding $54.2 billion, an 81% increase from the $29 billion loan volume closed in third quarter of 2019.  Through the third quarter, UWM closed YTD total of $127.8 billion which exceeds its 2019 production record of $107 billion by 20%.  
+
+*Mat Ishbia on never relaxing:*
+
+> As we grow from being the No. 1 wholesale lender, we're never relaxing.  I'm not happy where we're at.  We're bigger than we've ever been.  We're stronger than we've ever been, but we're never relaxing.  We have to take it to the next level.  
 
 
 ## Recommendations
