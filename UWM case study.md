@@ -26,6 +26,10 @@
 
     * Utilities:  Google Analytics and Google Tag Manager
 
+Mat Ishbia on never relaxing:
+
+> As we grow from being the No. 1 wholesale lender, we're never relaxing.  I'm not happy where we're at.  We're bigger than we've ever been.  We're stronger than we've ever been, but we're never relaxing.  We have to take it to the next level.  
+
 
 ## Landscape
 
@@ -35,7 +39,7 @@
 
 * The list of competitors ranked in volume production below UWM are:  
 
-    1.  UWM 
+    1 UWM 
 
     2.  Caliber Home Loans
 
