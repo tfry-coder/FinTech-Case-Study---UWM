@@ -73,7 +73,7 @@
 
 ## Recommendations
 
-* There will be significant disruption in this sector in the near future similar to that of the financial planning field where mortgage brokers and loan officers will be losing market share.  It’s estimated that 50 percent of brokers will not be needed in 10 years.  I suggest bypassing the brokers entirely. UWM focuses only on higher credit score profiles which Fannie Mae/Freddie Mac, FHA, and VA all use automated underwriting engines to perform the upfront pre-qualification process.  UWM is also now implementing new technology which reviews income and asset information in a doc-less manor.  Why is a broker needed when 95% of the process is automated?  There’s a very large margin being paid to brokers for a minimum amount of actual work.  This service that UWM would provide is an A.I. bot (similar to Robo-Advisors) in pre-qualifying and identifying the type of mortgage a borrower would qualify for and would be the best fit.   
+* There will be significant disruption in this sector in the near future similar to that of the financial planning field where mortgage brokers and loan officers will be losing market share.  It’s estimated that 50 percent of brokers will not be needed in 10 years.  I suggest bypassing the brokers entirely. UWM focuses only on higher credit score profiles which Fannie Mae/Freddie Mac, FHA, and VA all use automated underwriting engines to perform the upfront pre-qualification process.  UWM is also now implementing new technology which reviews income and asset information in a doc-less manor.  Why is a broker needed when 95% of the process is automated?  There’s a very large margin being paid to brokers for a minimum amount of actual work.  This service that UWM would provide are algorithms (similar to Robo-Advisors) for pre-qualifying and identifying the type of mortgage a borrower would qualify for and which loan programs would be the best fit.   
 
 * This would greatly improve margins by not paying a range of 1 to 2.5 percent of the loan amount to pay out a commission to a broker.  The results of this would greatly boost profits by providing even lower rates to consumers compared to the competition and disrupt this lagging FinTech sector.  
 
@@ -103,6 +103,8 @@
 [Game changing technology - prnewswire](https://www.prnewswire.com/news-releases/game-changing-technology-earns-united-wholesale-mortgage-a-spot-on-the-housingwire-2016-hw-tech100-list-300231294.html)
 
 [Marketwatch - Record 3rd quarter 2020](https://www.marketwatch.com/press-release/united-wholesale-mortgage-announces-record-third-quarter-2020-results-145-billion-net-income-2020-10-13)
+
+[Interview - from Big Ten Baller to mortgage-lending maven](https://www.housingwire.com/articles/34621-interview-mat-ishbia-ceo-of-united-shore-financial-services/)
 
 
 
