@@ -20,11 +20,11 @@
 
 * Most of the technologies UWM uses is proprietary.  Their campus looks like a silicon valley company with a huge IT workforce.  Their proprietary software includes e-signing, docless income and asset verification, appraisal waiver enhancements, virtual e-sign closings, custom rate and lock pricing, loan application links for brokers to use, and social media marketing/flyers/links to use which is all free for their broker partners.  Recently UWM launched Blink+, which is an all-in-one online borrower-facing application portal and point of sale, loan origination system, and CRM for loan officers.  In addition to this, UWM introduced InTouch which is a mobile app that provides brokers access to the full origination process, from underwriting through to closing, all within the app.  The application, data, business tools, and utilities they use are listed below.  
 
-    >Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
+    -Application and Data:  JQuery/JQuery UI, Bootstrap, and Moment.js
 
-    >Business Tools:  Font Awesome and Sitefinity
+    -Business Tools:  Font Awesome and Sitefinity
 
-    >Utilities:  Google Analytics and Google Tag Manager
+    -Utilities:  Google Analytics and Google Tag Manager
 
 
 ## Landscape
@@ -35,23 +35,25 @@
 
 * The list of competitors ranked in volume production below UWM are:  
 
-    >Caliber Home Loans
+    1) UWM 
 
-    >Home Point Mortgage Corporation
+    2) Caliber Home Loans
 
-    >LoanDepot, LLC
+    3) Home Point Mortgage Corporation
 
-    >Homebridge Financial Services
+    4) LoanDepot, LLC
 
-    >Stearns Lending
+    5) Homebridge Financial Services
 
-    >NewRez LLC
+    6) Stearns Lending
 
-    >Better.com
+    7) NewRez LLC
 
-    >Flagstar Bank
+    8) Better.com
 
-    >Royal Pacific Funding dba Bluepoint Mortgage
+    9) Flagstar Bank
+
+    10) Royal Pacific Funding dba Bluepoint Mortgage
 
 
 ## Results
@@ -69,7 +71,7 @@
 
 * There will be significant disruption in this sector in the near future similar to that of the financial planning field where mortgage brokers and loan officers will be losing market share.  It’s estimated that 50 percent of brokers will not be needed in 10 years.  I suggest bypassing the brokers entirely. UWM focuses only on higher credit score profiles which Fannie Mae/Freddie Mac, FHA, and VA all use automated underwriting engines to perform the upfront pre-qualification process.  UWM is also now implementing new technology which reviews income and asset information in a doc-less manor.  Why is a broker needed when 95% of the process is automated?  There’s a very large margin being paid to brokers for a minimum amount of actual work.  This service that UWM would provide is an A.I. bot (similar to Robo-Advisors) in pre-qualifying and identifying the type of mortgage a borrower would qualify for and would be the best fit.   
 
-* This would greatly improve margins by not paying a range of 1 to 2.5 percent of the loan amount to pay out a commission to a broker.  This would greatly boost profits by providing even lower rates to consumers compared to the competition and disrupt this lagging FinTech sector.  
+* This would greatly improve margins by not paying a range of 1 to 2.5 percent of the loan amount to pay out a commission to a broker.  The results of this would greatly boost profits by providing even lower rates to consumers compared to the competition and disrupt this lagging FinTech sector.  
 
 * A.I. chat bot to lead borrowers through a series of pre-qualification questions to both pre-qual and identify the best loan product type for the borrowers. 			  
 
